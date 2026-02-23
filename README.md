@@ -250,5 +250,5 @@ pip install pygame
 ### Ejecutar el juego
 
 ```bash
-python juego2.py
+python juego.py
 ```
